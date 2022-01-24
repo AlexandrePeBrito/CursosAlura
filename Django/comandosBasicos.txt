@@ -1,0 +1,14 @@
+Criando Projeto
+    django-admin startproject <nome_do_projeto>
+
+Crie o banco de dados
+    python manage.py migrate
+
+Testar se ta rodando o django
+    python manage.py runserver
+
+Inicie o app executando essa linha de comando
+    python manage.py startapp nome_do_app
+
+Criando um usuário administrador com o comando abaixo
+    python manage.py createsuperuser
