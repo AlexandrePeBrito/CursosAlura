@@ -1,6 +1,6 @@
 import pandas as pd
 
-dataset=pd.read_csv('D:\Meus Documentos\Documentos\GitHub\Alura\PythonDataScience\part2\db.csv',sep=';',index_col=0)
+dataset=pd.read_csv('D:\Meus Documentos\Documentos\GitHub\CursosAlura\PythonDataScience\part2\db.csv',sep=';',index_col=0)
 
 """print(dataset.head())      Imprime os primeiros 5 da tabela
 print(dataset['Valor'].head())      #Retorna uma Series
