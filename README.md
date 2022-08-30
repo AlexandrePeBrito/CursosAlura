@@ -1,2 +1,2 @@
-# atividades feitas na Alura
+# Atividades feitas nos Cursos da Alura
  
